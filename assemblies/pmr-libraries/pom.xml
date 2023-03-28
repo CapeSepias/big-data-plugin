@@ -708,7 +708,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-expression</artifactId>
-      <version>3.2.14.RELEASE</version>
+      <version>5.2.20.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>org.syslog4j</groupId>
